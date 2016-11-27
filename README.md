@@ -1,7 +1,7 @@
 # EX1
 ======== Dijkstra's algorithm ========
 
-Team:  Dvir pradelsky, Oz rubinstein, Yםשה Sיןנן.
+Team:  Dvir pradelsky, Oz rubinstein, Yoav Shaiby.
 
 This project focuses on finding the shortest route (like navigation app), and find the shortest path that doesn't run in the black list of points.
 
